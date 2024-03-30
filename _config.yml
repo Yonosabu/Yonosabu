@@ -21,6 +21,7 @@ author: Yonosabu<3
 
 navbar-links:
   About Me: "aboutme"
+  Media: "media"
   Resources:
     - Media: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
